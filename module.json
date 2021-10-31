@@ -72,7 +72,7 @@
         }
         
     ],
-	"url": "https://github.com/zsf-stuff/wod-unofficial"
-	"manifest": "https://raw.githubusercontent.com/zsf-stuff/wod-unofficial/main/module.json"
+	"url": "https://github.com/zsf-stuff/wod-unofficial",
+	"manifest": "https://raw.githubusercontent.com/zsf-stuff/wod-unofficial/main/module.json",
 	"download": "https://www.dropbox.com/s/vc8ffaf82vf58q6/world-of-dungeons.zip?dl=1"
   }
